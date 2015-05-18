@@ -1,0 +1,9 @@
+name: "City of Rocks"
+description: "City of Rocks, Idaho: Climbing and Travel Information"
+
+url: "Cityof.Rocks"
+
+paginate: 10
+
+permalink: pretty
+
